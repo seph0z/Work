@@ -1,0 +1,14 @@
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\bin\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.deps.json
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\bin\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.runtimeconfig.json
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\bin\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.runtimeconfig.dev.json
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\bin\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.dll
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\bin\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.pdb
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\bin\Debug\netcoreapp2.2\ShipmentApp.Data.Contracts.dll
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\bin\Debug\netcoreapp2.2\ShipmentApp.Data.Contracts.pdb
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\obj\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.csprojAssemblyReference.cache
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\obj\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\obj\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.AssemblyInfoInputs.cache
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\obj\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.AssemblyInfo.cs
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\obj\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.csproj.CopyComplete
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\obj\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.dll
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Data.EntityFramework\obj\Debug\netcoreapp2.2\ShipmentApp.Data.EntityFramework.pdb

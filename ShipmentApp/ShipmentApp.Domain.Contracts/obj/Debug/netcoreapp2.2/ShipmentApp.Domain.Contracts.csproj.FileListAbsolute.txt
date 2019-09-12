@@ -1,0 +1,12 @@
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\bin\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.deps.json
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\bin\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.dll
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\bin\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.pdb
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\obj\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.csproj.CoreCompileInputs.cache
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\obj\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.AssemblyInfoInputs.cache
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\obj\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.AssemblyInfo.cs
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\obj\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.dll
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\obj\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.pdb
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\bin\Debug\netcoreapp2.2\ShipmentApp.Data.Contracts.dll
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\bin\Debug\netcoreapp2.2\ShipmentApp.Data.Contracts.pdb
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\obj\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.csprojAssemblyReference.cache
+D:\Repos\easypost\ShipmentApp\ShipmentApp.Domain.Contracts\obj\Debug\netcoreapp2.2\ShipmentApp.Domain.Contracts.csproj.CopyComplete

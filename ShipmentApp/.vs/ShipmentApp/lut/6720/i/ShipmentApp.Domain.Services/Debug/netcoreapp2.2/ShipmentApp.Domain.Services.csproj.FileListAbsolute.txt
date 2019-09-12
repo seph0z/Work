@@ -1,0 +1,8 @@
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.deps.json
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.dll
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.csprojAssemblyReference.cache
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.csproj.CoreCompileInputs.cache
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.AssemblyInfoInputs.cache
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.AssemblyInfo.cs
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.csproj.CopyComplete
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Domain.Services\Debug\netcoreapp2.2\ShipmentApp.Domain.Services.dll

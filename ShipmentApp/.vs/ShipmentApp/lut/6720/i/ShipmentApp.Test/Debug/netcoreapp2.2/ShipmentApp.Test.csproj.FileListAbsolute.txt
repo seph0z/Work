@@ -1,0 +1,12 @@
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Test\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Test\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Test\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.deps.json
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.runtimeconfig.json
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.runtimeconfig.dev.json
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\b\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.dll
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.csproj.CoreCompileInputs.cache
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.AssemblyInfoInputs.cache
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.AssemblyInfo.cs
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.csproj.CopyComplete
+D:\Repos\easypost\ShipmentApp\.vs\ShipmentApp\lut\0\i\ShipmentApp.Test\Debug\netcoreapp2.2\ShipmentApp.Test.dll

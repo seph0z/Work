@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "ShipmentApp.Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "ShipmentApp.Data.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "ShipmentApp.Domain.Contracts.dll": {}
+        }
+      },
+      "ShipmentApp.Data.Contracts/1.0.0": {
+        "runtime": {
+          "ShipmentApp.Data.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShipmentApp.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShipmentApp.Data.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

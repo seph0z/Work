@@ -1,0 +1,72 @@
+﻿<a asp-controller="Shipment" asp-action="Index">Back to grid</a>
+
+<br />
+<hr />
+<br />
+
+<div id="gridCarriers"></div>
+
+<script>
+    $(document).ready(function () {
+        var dataSourceqq = new kendo.data.DataSource({
+            transport: {
+                read: {
+                    dataType: "json",
+                    url: "https://localhost:44399/carrier/getall"
+                },
+                create: {
+                    url: "https://localhost:44399/carrier/create",
+                    type: "POST"
+                },
+                update: {
+                    url: "https://localhost:44399/carrier/create",
+                    type: "POST"
+                },
+                destroy: {
+                    url: "https://localhost:44399/carrier/delete",
+                    type: "GET"
+                }
+            },
+            batch: false,
+            schema: {
+                model: {
+                    id: "id",
+                    fields: {
+                        id: {
+                            editable: false,
+                            nullable: false
+                        },
+                        name: {
+                            type: "string",
+                            validation: { required: true }
+                        },
+                        numberOfShipments: {
+                            editable: false,
+                            type: "number"
+                        }
+                    }
+                }
+            }
+        });
+
+        $("#gridCarriers").kendoGrid({
+            dataSource: dataSourceqq,
+            height: 550,
+            sortable: true,
+            pageable: true,
+            toolbar: ["create"],
+            columns: [
+                {
+                    field: "name",
+                    title: "Carrier name"
+                },
+                {
+                    field: "numberOfShipments",
+                    title: "Number of shipments"
+                },
+                { command: ["edit", "destroy"] }
+            ],
+            editable: "inline"
+        });
+    });
+</script>

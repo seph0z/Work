@@ -1,0 +1,156 @@
+﻿@model ShipmentApp.Domain.Contracts.ViewModels.ShipmentViewModel
+
+<h1>Retrieve</h1>
+
+<dl class="row">
+    <dt class="col-2">
+        Description
+    </dt>
+    <dd class="col-10">
+        @Model.Description
+    </dd>
+    <dt class="col-2">
+        Weight
+    </dt>
+    <dd class="col-10">
+        @Model.Weight
+    </dd>
+</dl>
+
+<br />
+<hr />
+<br />
+<br />
+<dl class="row">
+    <dt class="col-2">
+        Carrier name
+    </dt>
+    <dd class="col-10">
+        @Model.CarrierName
+    </dd>
+</dl>
+<br />
+<hr />
+<br />
+<br />
+
+<div class="row justify-content-between">
+    <div class="col-5">
+        <dl class="row">
+            <dt class="col-2">
+                Sender Name
+            </dt>
+            <dd class="col-10">
+                @Model.SenderName
+            </dd>
+            <dt class="col-2">
+                Post Code
+            </dt>
+            <dd class="col-10">
+                @Model.SenderAddress.PostCode
+            </dd>
+            <dt class="col-2">
+                Country Code
+            </dt>
+            <dd class="col-10">
+                @Model.SenderAddress.CountryCode
+            </dd>
+            <dt class="col-2">
+                State
+            </dt>
+            <dd class="col-10">
+                @Model.SenderAddress.State
+            </dd>
+            <dt class="col-2">
+                City
+            </dt>
+            <dd class="col-10">
+                @Model.SenderAddress.City
+            </dd>
+            <dt class="col-2">
+                Line1
+            </dt>
+            <dd class="col-10">
+                @Model.SenderAddress.Line1
+            </dd>
+            <dt class="col-2">
+                Line2
+            </dt>
+            <dd class="col-10">
+                @Model.SenderAddress.Line2
+            </dd>
+        </dl>
+    </div>
+    <div class="col-5">
+        <dl class="row">
+            <dt class="col-2">
+                Recipient Name
+            </dt>
+            <dd class="col-10">
+                @Model.RecipientName
+            </dd>
+            <dt class="col-2">
+                Post Code
+            </dt>
+            <dd class="col-10">
+                @Model.RecipientAddress.PostCode
+            </dd>
+            <dt class="col-2">
+                Country Code
+            </dt>
+            <dd class="col-10">
+                @Model.RecipientAddress.CountryCode
+            </dd>
+            <dt class="col-2">
+                State
+            </dt>
+            <dd class="col-10">
+                @Model.RecipientAddress.State
+            </dd>
+            <dt class="col-2">
+                City
+            </dt>
+            <dd class="col-10">
+                @Model.RecipientAddress.City
+            </dd>
+            <dt class="col-2">
+                Line1
+            </dt>
+            <dd class="col-10">
+                @Model.RecipientAddress.Line1
+            </dd>
+            <dt class="col-2">
+                Line2
+            </dt>
+            <dd class="col-10">
+                @Model.RecipientAddress.Line2
+            </dd>
+        </dl>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+    <br />
+    <a asp-action="Create" asp-route-id="@Model.Id">Update</a>
+    <br />
+    <a asp-action="Delete" asp-route-id="@Model.Id">Delete </a>
+</div>
+
+<div id="logGrid"></div>
+<script>
+    var dataSource = new kendo.data.DataSource({
+    transport: {
+        read: {
+            url: "https://localhost:44399/api/log/" + "@Model.Id",
+            dataType: "json"
+        },
+        parameterMap: function (data) {
+            let dat = data;
+            let model = { models: kendo.stringify(data.models) };
+            return model;
+        }
+    },
+    batch: true
+});
+</script>
